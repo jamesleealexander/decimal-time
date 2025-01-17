@@ -1,0 +1,17 @@
+{
+    "name": "jamesleealexander/decimal-time",
+    "description": "Convert time to decimal.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jamesleealexander\\DecimalTime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "James Alexander",
+            "email": "109726755+jamesa-ss@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
