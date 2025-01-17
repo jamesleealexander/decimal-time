@@ -2,6 +2,7 @@
     "name": "jamesleealexander/decimal-time",
     "description": "Convert time to decimal.",
     "type": "library",
+	"license": "MIT",
     "autoload": {
         "psr-4": {
             "Jamesleealexander\\DecimalTime\\": "src/"
